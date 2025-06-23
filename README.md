@@ -39,8 +39,7 @@
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,github,wordpress,bootstrap,androidstudio,vscode" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,github,wordpress,bootstrap,androidstudio,vscode,tensorflow" />
 </div>
 
 <br/>
