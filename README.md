@@ -1,39 +1,32 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Taqui+Imam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Sanzid!;" />
 </h1>
 
-<h3 align="center">A passionate software developer and tech Blog writer from India</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Nexjs Projects**
+ 🔭 I’m currently working on **a Machine Learning Projects**
  
- 🌱 I’m currently learning **C++,Typescript and Java**
+ 🌱 I’m currently learning **Machine learning**
 
- 📚 Write's Blogs at **[Dev.to](https://dev.to/random_ti)** and **[Hashnode](https://mdtaquiimam.hashnode.dev/)**
-
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/taqui-786/taqui-786/issues)**
-
- ⚡ Fun fact **World first developer was a women**
+ ⚡ Fun fact **Everything is funny, if you find fun there**
  
  </div>
  
 <div align="center"> 
-  <a href="mailto:mdtaqui.jhar@gmail.com">
+  <a href="mailto:mssanjidahmed993@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-      <a href="https://twitter.com/Taquiimam14" target="_blank">
+      <a href="https://x.com/mohammadsanjid3?t=RQVGN56_uit6JNmA4ZxTtA&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
-  <a href="https://linkedin.com/in/taqui-imam" target="_blank">
+  <a href="https://www.linkedin.com/in/md-sanzid-29b675241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://tinyurl.com/MdTaquiImam" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
