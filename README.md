@@ -15,7 +15,7 @@
   🔭 I’m currently working on <b>Machine Learning Projects</b><br><br>
   🌱 I’m currently learning <b>Machine Learning</b><br><br>
   ⚡ Fun fact: <i>Everything is funny, if you find fun there</i><br><br>
-  🌐 <a href="sanjid1911.github.io/My-portfolio/" target="_blank"><b>Visit My Website</b></a>
+  🌐 <a href="https://sanjid1911.github.io/My-portfolio/" target="_blank"><b>Visit My Website</b></a>
 </div>
 
 <br/>
