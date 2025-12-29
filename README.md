@@ -15,7 +15,7 @@
   🔭 I’m a AI/ML Engineer</b><br><br>
   🌱 Also skilled full stack web developer.</b><br><br>
   ⚡ Fun fact: <i>Everything is funny, if you find fun there</i><br><br>
-  🌐 <a href="https://github.com/sanjid1911/Site.git" target="_blank"><b>Visit My Website</b></a>
+  🌐 <a href="https://sanjid1911.github.io/Site/" target="_blank"><b>Visit My Website</b></a>
 </div>
 
 <br/>
